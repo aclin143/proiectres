@@ -25,51 +25,51 @@
     "products": [
         {
             "id": 1,
-            "name": "LED display",
-            "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
-            "price": 92,
+            "name": "automaticrolex",
+            "description": "rose face, silver bracelet",
+            "price": 10.000$,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+            "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/automaticrolex.jpg"
         },
         {
             "id": 2,
-            "name": "Arduino UNO",
-            "description": "Brand new and high quality.",
-            "price": 180,
+            "name": " DAYTONA ROLEX",
+            "description": "BLACK HIGH QUALITY ROLEX",
+            "price": 8000$,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+            "photo_url": "https://raw.githubusercontent.com/aclin143/proiectres/main/img/daytonarolex.jpg"
         },
         {
             "id": 3,
-            "name": "ESP8266 5V",
-            "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
-            "price": 300,
+            "name": " DIAMOND ROLEX",
+            "description":"LUXURY GOLD ROLEX ",
+            "price": 12.000$,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+            "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/diamondrolex.jpg"
         },
         {
             "id": 4,
-            "name": "RGB",
-            "description": "Can make color party.",
-            "price": 92,
+            "name": "OYSTER ROLEX",
+            "description": "SILVER LUXURY WATCH FROM THE 90's",
+            "price": 6000$,
             "author_id": 1,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+            "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/oysterrolex.jpg"
         },
         {
             "id": 5,
-            "name": "Resistor 10k Ohm",
-            "description": "Can resist the voltage. Super cool.",
-            "price": 180,
+            "name": "ROLEX BLING",
+            "description": "AN OLD CLASSY WATCH FOR CLASSY MEN",
+            "price": 15 000$,
             "author_id": 3,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+            "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/rolexbling.jpg"
         },
         {
             "id": 6,
-            "name": "7-Segment Display",
-            "description": "Epic.",
+            "name": "ROLEX SEA",
+            "description": "GOLD WITH A SEA BLUE FRAME.",
             "price": 300,
             "author_id": 2,
-            "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+            "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/rolexsea.jpg"
         }
     ]
 }
