@@ -27,7 +27,7 @@
             "id": 1,
             "name": "automaticrolex",
             "description": "rose face, silver bracelet",
-            "price": 10.000$,
+            "price": 10.000,
             "author_id": 1,
             "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/automaticrolex.jpg"
         },
@@ -35,7 +35,7 @@
             "id": 2,
             "name": " DAYTONA ROLEX",
             "description": "BLACK HIGH QUALITY ROLEX",
-            "price": 8000$,
+            "price": 8000.
             "author_id": 3,
             "photo_url": "https://raw.githubusercontent.com/aclin143/proiectres/main/img/daytonarolex.jpg"
         },
@@ -43,7 +43,7 @@
             "id": 3,
             "name": " DIAMOND ROLEX",
             "description":"LUXURY GOLD ROLEX ",
-            "price": 12.000$,
+            "price": 12000,
             "author_id": 2,
             "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/diamondrolex.jpg"
         },
@@ -51,7 +51,7 @@
             "id": 4,
             "name": "OYSTER ROLEX",
             "description": "SILVER LUXURY WATCH FROM THE 90's",
-            "price": 6000$,
+            "price": 6000,
             "author_id": 1,
             "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/oysterrolex.jpg"
         },
@@ -59,7 +59,7 @@
             "id": 5,
             "name": "ROLEX BLING",
             "description": "AN OLD CLASSY WATCH FOR CLASSY MEN",
-            "price": 15 000$,
+            "price": 15.000,
             "author_id": 3,
             "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/rolexbling.jpg"
         },
@@ -67,7 +67,7 @@
             "id": 6,
             "name": "ROLEX SEA",
             "description": "GOLD WITH A SEA BLUE FRAME.",
-            "price": 300,
+            "price": 10.300,
             "author_id": 2,
             "photo_url":  "https://raw.githubusercontent.com/aclin143/proiectres/main/img/rolexsea.jpg"
         }
